@@ -1,5 +1,8 @@
-<p align="center">Welcome to Yeon's Github Page 👋
-![Img text](https://spotify-github-profile.vercel.app/api/view.svg?uid=lgvkl42jiac8cg882if1xgi67&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=lgvkl42jiac8cg882if1xgi67&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false) 
+<p align="center">Welcome to Yeon's Github Page 👋</p>
+  
+  <div align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=lgvkl42jiac8cg882if1xgi67&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=lgvkl42jiac8cg882if1xgi67&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false">
+  </div>
 
 
 <!--
