@@ -1,5 +1,5 @@
 <div  align="center" >
-<img  src="https://github.com/Yeon-Moo/Img_storage/blob/master/text.gif">
+<img  src="https://github.com/Yeon-Moo/Img_storage/blob/master/coollogo_com-161712891.png">
 </div>
  <br><br><br>
 <div align="center">
